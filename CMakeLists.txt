@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(detab detab.c)
 add_executable(hextodex hextodec.c)
+add_executable(any any.c)
