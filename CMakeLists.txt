@@ -3,4 +3,5 @@ project(untitled C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(KandR-c detab.c)
+add_executable(detab detab.c)
+add_executable(hextodex hextodec.c)
